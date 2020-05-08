@@ -10,5 +10,6 @@ int main()
     b=a-b;
     a=a-b;
     printf("\n After swap a: %d b: %d\n",a,b);
+    a
 
 }
